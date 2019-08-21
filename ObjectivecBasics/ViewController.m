@@ -24,8 +24,7 @@
     
     name = @"naveen";
     value = @"selva";
-    
-    NSLog(@"%@", name);
+  
     
 }
 
