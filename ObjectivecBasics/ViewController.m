@@ -27,7 +27,6 @@
     
     NSLog(@"%@", name);
     
-    [nameArr arr]
 }
 
 
